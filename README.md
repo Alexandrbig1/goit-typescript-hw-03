@@ -5,18 +5,28 @@ Fullstack Developer Bootcamp [@GoIT](https://goit.global/us/) - ![Alt text](http
 
 ## Overview
 
-This repository contains my third homework from the Fullstack Developer Bootcamp, where I am currently learning TypeScript. As a part of my homework assignments, I am exploring the fundamentals of TypeScript to enhance my skills in building robust and scalable web applications.
+This repository contains my third homework from the Fullstack Developer Bootcamp, where I am focused on mastering TypeScript and exploring advanced Object-Oriented Programming (OOP) concepts. As a part of my homework assignments, I am exploring the fundamentals of TypeScript to enhance my skills in building robust and scalable web applications.
 
 ## Learning Objectives
 
-- **TypeScript Fundamentals:** Understanding the basics of TypeScript, including types, interfaces, and modules.
-- **Application Development:** Building simple applications to apply TypeScript concepts in real-world scenarios.
-- **Git and GitHub:** Utilizing version control and collaboration tools for effective project management.
+1. **TypeScript Mastery**
+   - **Classes and Interfaces:** Understanding and implementing classes and interfaces to create well-structured and reusable code.
+   - **Inheritance and Polymorphism:** Extending classes and utilizing polymorphism to promote code reusability and maintainability.
+   - **UML (Unified Modeling Language):** Applying UML concepts to design and visualize the architecture of TypeScript projects.
+1. **Object-Oriented Programming (OOP)**
+   - **Abstraction and Encapsulation:** Leveraging abstraction to hide complex implementation details and encapsulating related functionalities within classes.
+   - **Inheritance and Composition:** Effectively using inheritance to promote code reuse and employing composition for flexible component composition.
+1. **Project Architecture**
+   - **Directory Structure:** Organizing the project with a clear directory structure to enhance code navigation and maintainability.
+   - **Abstract Classes and Interfaces:** Utilizing abstract classes and interfaces to define blueprints for related classes, fostering a modular and scalable architecture.
+1. **GitHub Collaboration**
+   - **Version Control:** Applying Git for version control to track changes, collaborate with others, and manage the project's development lifecycle.
+   - **Collaboration Tools:** Utilizing GitHub for effective collaboration, code reviews, and project management.
 
 ## Repository Structure
 
-- `src/`: Contains the TypeScript source code for various assignments.
-- Other directories and files related to specific projects or exercises.
+- `src/`: Contains the TypeScript source code for various assignments, demonstrating the application of OOP principles and TypeScript features.
+- [Other directories and files]: Includes additional directories and files related to specific projects or exercises, showcasing practical implementations of learned concepts.
 
 ## Languages and Tools:
 
